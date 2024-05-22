@@ -1,6 +1,6 @@
 # marbles_health_assignment
 
-A new Flutter project.
+Marbles Health flutter intern assignment
 
 ## UI Preview
 ![Screenshot (654)](https://github.com/saarimshaikh/marbles_health_flutter_assignment/assets/65160026/47c20527-c5e0-4416-9cf8-ac777d5ffdda)
