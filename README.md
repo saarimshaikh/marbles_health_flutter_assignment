@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## UI Preview
+![Screenshot (654)](https://github.com/saarimshaikh/marbles_health_flutter_assignment/assets/65160026/47c20527-c5e0-4416-9cf8-ac777d5ffdda)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
