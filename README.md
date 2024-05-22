@@ -3,7 +3,10 @@
 Marbles Health flutter intern assignment
 
 ## UI Preview
-![Screenshot (654)](https://github.com/saarimshaikh/marbles_health_flutter_assignment/assets/65160026/47c20527-c5e0-4416-9cf8-ac777d5ffdda)
+![Screenshot (655)](https://github.com/saarimshaikh/marbles_health_flutter_assignment/assets/65160026/6aff67bd-56cc-4375-a4b9-0c92815149cb)
+
+## Project Demo
+https://github.com/saarimshaikh/marbles_health_flutter_assignment/assets/65160026/bda53112-7a8a-4961-a5bf-e1e0b9030cfe
 
 ## Getting Started
 
