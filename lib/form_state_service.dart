@@ -21,6 +21,8 @@ class FormStateService with ChangeNotifier {
     FormComponent(label: '', infoText: ''),
   ];
 
+  List<FormComponent> submittedComponents = [];
+
   void addComponent() {
     components.add(FormComponent(label: '', infoText: ''));
     notifyListeners();
@@ -39,7 +41,7 @@ class FormStateService with ChangeNotifier {
   }
 
   void submitForm() {
-    // Handle form submission logic
-    print(components);
+    submittedComponents = List.from(components);
+    notifyListeners();
   }
 }
